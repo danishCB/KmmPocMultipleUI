@@ -1,0 +1,11 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "25ff52de6ccbaad3c3cea596527e84d001be10d597115b541a8bc25f7692a37b"
+build_start_time: [1693914917, 899766000]
+build_end_time: [1693914922, 508751000]
+inputs:
+  "/Users/danish/Desktop/Danish/KMM/KMMPOC/iosApp/iosApp/detail/DetailsScreen.swift": [1693831423, 755616645]
+  "/Users/danish/Desktop/Danish/KMM/KMMPOC/iosApp/iosApp/home/CoinGridItem.swift": [1693831450, 768061813]
+  "/Users/danish/Desktop/Danish/KMM/KMMPOC/iosApp/iosApp/home/HomeScreen.swift": [1693829260, 137996139]
+  "/Users/danish/Desktop/Danish/KMM/KMMPOC/iosApp/iosApp/home/HomeViewModel.swift": [1693569145, 198514175]
+  "/Users/danish/Desktop/Danish/KMM/KMMPOC/iosApp/iosApp/iOSApp.swift": [1693575921, 330174786]
+  "/Users/danish/Desktop/Danish/KMM/KMMPOC/iosApp/iosApp/util/SampleCoin.swift": [1693403494, 831996877]
